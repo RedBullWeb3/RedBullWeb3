@@ -6,6 +6,9 @@
 - 
 <a href="https://app.daily.dev/kfilip"><img src="https://api.daily.dev/devcards/0c726339a3494870b76aa69278be321d.png?r=9ey" width="400" alt="RedBull3's Dev Card"/></a>
 <!---
+
+![image](https://user-images.githubusercontent.com/65456462/203016767-6fa4c61c-29b5-449b-a1b7-803379ab503a.png)
+
 RedBullWeb3/RedBullWeb3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
