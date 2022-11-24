@@ -1,8 +1,15 @@
 
-- 👋 Hi, I’m @RedBullWeb3. Kristof is my name.
+<h1 align="center">Hi 👋, I'm Kristof Filip</h1>
+<h3 align="center">A passionate Software Developer student from Poland</h3>
+
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Solidity & React.
 - 👀 I’m interested in future usecases of smart contracts.
-- 🌱 I’m currently learning JavaScript, Solidity & React.
 - 💞️ I’m looking to collaborate on crypto & web3 projects
+- 👨‍💻 All of my projects are available at [https://kfilip.com/](https://kfilip.com/)
+- 🔭 I’m currently Studying [Computing Sience) at National College of Ireland](**https://vit.ac.in/](https://www.ncirl.ie/Courses/NCI-Course-Details/course/HDCOMPBLK**)
+- ⚡ Fun fact **Gym freak**
+
+
 - 📫 How to reach me. Send me email to femsiak@gmail.com or message me on my linkedin https://www.linkedin.com/in/kristof-filip/
 
 <a href="https://app.daily.dev/kfilip"><img src="https://api.daily.dev/devcards/0c726339a3494870b76aa69278be321d.png?r=9ey" width="400" alt="RedBull3's Dev Card"/></a>
@@ -30,8 +37,6 @@ Stage12 – Build Project 👈
 ![redbullweb3 GitHub Stats](https://server.dooboo.io/github-stats-advanced/redbullweb3)
 
 
-<h1 align="center">Hi 👋, I'm Ajay Aadhav VV</h1>
-<h3 align="center">A passionate Software Engineering student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayaadhav10&label=Profile%20views&color=0e75b6&style=flat" alt="ajayaadhav10" /> </p>
 
@@ -39,15 +44,8 @@ Stage12 – Build Project 👈
 
 <p align="left"> <a href="https://twitter.com/ajayaadhav" target="blank"><img src="https://img.shields.io/twitter/follow/ajayaadhav?logo=twitter&style=for-the-badge" alt="ajayaadhav" /></a> </p>
 
-- 🔭 I’m currently Studying [M.Tech(Software Engineering) at VIT University](https://vit.ac.in/)
 
-- 🌱 I’m currently learning **programming and web development**
 
-- 👯 My Area of Interest's are **Cloud computing, Web development, Game development**
-
-- 👨‍💻 All of my projects are available at [https://ajayaadhav.netlify.app/](https://ajayaadhav.netlify.app/)
-
-- ⚡ Fun fact **Gym freak**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
