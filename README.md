@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Kristof Filip</h1>
 <h3 align="center">A passionate Software Developer student from Poland</h3>
-#
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/65456462/203808236-b109eb16-8984-4429-9d6b-d6abe88bc65a.svg)
+
+https://user-images.githubusercontent.com/65456462/203808236-b109eb16-8984-4429-9d6b-d6abe88bc65a.svg
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Solidity & React.
 - 👀 I’m interested in future usecases of smart contracts.
