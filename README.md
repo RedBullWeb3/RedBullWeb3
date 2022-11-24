@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Kristof Filip</h1>
 <h3 align="center">A passionate Software Developer student from Poland</h3>
 
-https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
+
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Solidity & React.
 - 👀 I’m interested in future usecases of smart contracts.
 - 💞️ I’m looking to collaborate on crypto & web3 projects
 - 👨‍💻 All of my projects are available at [https://kfilip.com/](https://kfilip.com/)
-- 🔭 I’m currently Studying [Computing Sience) at National College of Ireland](**https://vit.ac.in/](https://www.ncirl.ie/Courses/NCI-Course-Details/course/HDCOMPBLK**)
+- 🔭 I’m currently Studying [Computing Sience) at National College of Ireland](https://www.ncirl.ie)
 - ⚡ Fun fact **Gym freak**
 
 
