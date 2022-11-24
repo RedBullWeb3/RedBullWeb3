@@ -8,7 +8,7 @@
 - 👀 I’m interested in future usecases of smart contracts.
 - 💞️ I’m looking to collaborate on crypto & web3 projects
 - 👨‍💻 All of my projects are available at [https://kfilip.com/](https://kfilip.com/)
-- 🔭 I’m currently Studying [Computing Sience) at National College of Ireland](https://www.ncirl.ie)
+- 🔭 I’m currently Studying [Computing Sience) at National College of Ireland] https://www.ncirl.ie/
 - ⚡ Fun fact **Gym freak**
 
 
